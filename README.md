@@ -1,8 +1,8 @@
 # Memories
 ***A simple memories app where you can create/add new memory, update/delete/like existing memory.***
 
-<img src="images/1.png" width=500>
-<img src="images/2.png" width=500>
+<img src="images/1.png" width=400>
+<img src="images/2.png" width=400>
 
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
